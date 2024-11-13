@@ -11,4 +11,4 @@ Styling: Tailwind CSS for a modern, responsive design
 JavaScript: Core functionality and custom editing/compression logic
 
 Getting Started
-Visit the live site: https://helpful-gecko-337c37.netlify.app/
+Visit the live site: https://picpilot-updated.netlify.app/
